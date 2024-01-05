@@ -1,0 +1,7 @@
+C:\Users\antho\Desktop\FreezeApplication\FreezeApplication\bin\Release\FreezeApplication.exe.config
+C:\Users\antho\Desktop\FreezeApplication\FreezeApplication\bin\Release\FreezeApplication.exe
+C:\Users\antho\Desktop\FreezeApplication\FreezeApplication\bin\Release\FreezeApplication.pdb
+C:\Users\antho\Desktop\FreezeApplication\FreezeApplication\obj\Release\FreezeApplication.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\FreezeApplication\FreezeApplication\obj\Release\FreezeApplication.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\FreezeApplication\FreezeApplication\obj\Release\FreezeApplication.exe
+C:\Users\antho\Desktop\FreezeApplication\FreezeApplication\obj\Release\FreezeApplication.pdb
